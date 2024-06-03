@@ -6,7 +6,7 @@ Para poder ejecutar el código fuente que nos facilita el dataset primero se deb
 * Ejecutar los siguientes comandos para instalar las bibliotecas:
   - pip install pandas
   - pip install openpyxl
-La descarga y la instalación se hacen de manera automática.
+  - La descarga y la instalación se hacen de manera automática.
 
 Este código realiza lo siguiente:
 
